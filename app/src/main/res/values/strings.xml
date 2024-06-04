@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Wintrop</string>
+    <string name="error_name">UnExpected Error</string>
+    <string name="notification_channel_name">Subscribtion Channel</string>
+    <string name="notification_channel_des">This Channel  to show the Subscribtions Offers</string>
+    <string name="notification_channel_id">dlskfgns6df6535158dfg3d5fg</string>
+    <string name="notification_channel_name_news">News Channel</string>
+    <string name="notification_channel_des_news">Show The Weather Status At Day</string>
+    <string name="notification_channel_id_news">dfgs1df3s5df13</string>
+    <string name="explore">Explore</string>
+    <string name="splash_description">Weather Application To Show The Weather Status Depends on City Name Click Explore To See More Features</string>
+    <string name="enter_city_name">Enter City Name</string>
+    <string name="empty_text" />
+    <string name="search">Search</string>
+    <string name="current_time">Current Time</string>
+    <string name="next_days">Next Days</string>
+    <string name="next_months">Next Months</string>
+    <string name="speed_per_hour">"Wind Speed Per Hour : "</string>
+    <string name="wind_degree">Wind Degree :</string>
+    <string name="present">°</string>
+    <string name="month_name">Month Name</string>
+    <string name="settings">Settings</string>
+    <string name="default_title" />
+    <string name="irbid_status">Irbid Status</string>
+    <string name="aqaba_status">Aqaba Status</string>
+    <string name="clear_local">Clear Offline State</string>
+    <string name="clear_database">Local Conditions Deleted</string>
+</resources>
